@@ -2,6 +2,7 @@
 name: Dependency Submission
 
 on:
+  workflow_dispatch:
   push:
     branches:
     - main
